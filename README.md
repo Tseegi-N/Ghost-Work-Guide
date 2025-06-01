@@ -1,19 +1,19 @@
 # Ghost Work Guide for Beginners (AMT, Prolific, etc.)
 ## Ghost Work 101: A Not-So-Official Guide to Side Hustling Without Getting Screwed Over
 
-Ever found yourself in a situation where you just need to make money, hopefully fast, flexible, and ideally online? Congrats, that makes you one of over 25 million people across the U.S. and Europe dabbling in the online gig economy. But here’s the catch: what starts as a quick side hustle can turn into a hot mess. Before you know it, you're underpaid, ghosted by companies, or straight-up exploited by Big Tech platforms.
+Ever found yourself in a situation where you just need to make money, hopefully fast, flexible, and ideally online? Congrats, that makes you one of over [25 million](http://www.mckinsey.com/globalthemes/employment-and-growth/independent-work-choice-necessity-and-the-gig-economy) people across the U.S. and Europe dabbling in the online gig economy. But here’s *the catch*: what starts as a quick side hustle can turn into a hot mess. Before you know it, you're underpaid, ghosted by companies, or straight-up exploited by Big Tech platforms.
 
-That’s exactly why I put together this guide to help you beat the system (sort of) and make money with low effort, fewer regrets, and a lot more awareness. Please keep in mind that this is an undergraduate project for CSC 356: Platform Activism at Smith College. This guide is a work in progress, not a final product, and I welcome any thoughts, suggestions, or additions you may have. If you have a few minutes to spare, I’d love to hear your opinion about the guide or the project in general. You can share your feedback by filling out this [short survey](https://forms.gle/pLBRTHKERqKytz9R6)!
+That’s exactly why I put together this guide to help you beat the system (sort of) and make money with low effort, fewer regrets, and a lot more awareness. Please keep in mind that this is an undergraduate project for *CSC 356: Platform Activism at Smith College*. This guide is a work in progress, not a final product, and I welcome any thoughts, suggestions, or additions you may have. If you have a few minutes to spare, I’d love to hear your opinion about the guide or the project in general. You can share your feedback by filling out this [short survey](https://forms.gle/pLBRTHKERqKytz9R6)!
 
 *Welcome to Ghost Work 101*: Everything I wish someone told me before I signed up for all these platforms.
 
 ### Quick Disclaimer 
 
-This isn’t an official or foolproof roadmap. It won’t guarantee better wages or instant jobs. I’m not sponsored by anyone, and I can’t take responsibility for how this info gets used. This is simply a student-to-student survival guide—created with love (and frustration) for CSC 356: Platform Activism class.
+This isn’t an official or foolproof roadmap. It won’t guarantee better wages or instant jobs. I’m not sponsored by anyone, and I can’t take responsibility for how this info gets used. This is simply a student-to-student survival guide—created with love (and frustration) for *CSC 356: Platform Activism* class, but I'm putting it on *github* to reach as many audiences as possible. So, if you think it's useful to you or anyone, please feel free to share it on online forums. 
 
 But I do hope it helps undergrads (and anyone else) navigate gig platforms a little smarter, with fewer surprises. If you have questions, ideas, or spicy stories of your own, feel free to reach out to <tsengelmaa.nyamdorj@gmail.com>.
 
-This guide delves into platform studies, historical context, and scholarly work relating to HCI. We believe that all the information provided will be crucial in protecting yourself and others, especially in self-advocacy, but if you’d like to explore tactics behind ghost work, navigate straight to the markdown file named “Simple tactics to follow.”
+This guide delves into platform studies, historical context, and scholarly work relating to HCI. We believe that all the information provided will be crucial in protecting yourself and others, especially in self-advocacy, but if you’d like to explore tactics behind ghost work, navigate straight to the markdown file named “simple_tactics.md.”
 
 ## TL;DR – Ghost Work Super Guide
 
@@ -61,7 +61,7 @@ College students (like Smithies!), side hustlers, or anyone just trying to make 
 
 ## Closing Remark
 
-Thank you for taking the time to explore the Ghost Work Super Guide. Whether you’re just starting out, considering ghost work, or already navigating the gig economy, I hope this guide has given you helpful tools, resources, and perspective. Ghost work often thrives in the shadows: unseen, undervalued, and misunderstood. But by sharing knowledge, building transparency, and supporting one another, we can help shift that reality toward something more informed and equitable. This guide is a living resource, and your voice matters! Please reach out if you have questions, feedback, or additions to share. 
+Thank you for taking the time to explore the Ghost Work Super Guide. Whether you’re just starting out, considering ghost work, or already navigating the gig economy, I hope this guide has given you helpful tools, resources, and perspective. Ghost work often thrives in the shadows: unseen, undervalued, and misunderstood. But by sharing knowledge, building transparency, and supporting one another, we can help shift that reality toward something more informed and equitable. This guide is a living resource, and your voice matters! **Please reach out** if you have questions, feedback, or additions to share. 
 
 ## Reference
 
