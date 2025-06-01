@@ -21,7 +21,7 @@ This guide delves into platform studies, historical context, and scholarly work 
  
 Labor done by humans but perceived as automated—think content moderation, data labeling, AI training, survey filling. It’s often hidden behind platforms like Amazon Mechanical Turk, Outlier, and Prolific.
 
-**2. Why should you care?**
+[**2. Why should you care?**](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/what_is_ghostwork.md)
 
 It’s low-pay, unstable work with little protection. You’re not considered an employee, which means:
 
@@ -35,11 +35,11 @@ It’s low-pay, unstable work with little protection. You’re not considered an
 
 **3. Platforms Covered:**
 
-&nbsp;- AMT – flexible, but has the worst rep for exploitation
+&nbsp;- [AMT](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/AMT.md) – flexible, but has the worst rep for exploitation
 
-&nbsp;- Outlier – pays better but is glitchy, high barrier to entry
+&nbsp;- [Outlier](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/Outlier.md) – pays better but is glitchy, high barrier to entry
 
-&nbsp;- Prolific – good community and ethics, but competitive and limited slots
+&nbsp;- [Prolific](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/Prolific.md) – good community and ethics, but competitive and limited slots
 
 **4. What’s in the guide?**
 
@@ -52,6 +52,8 @@ It’s low-pay, unstable work with little protection. You’re not considered an
 &nbsp;- Community resources (Reddit threads, Discords, YouTubers)
 
 &nbsp;- Transparency tactics to help you earn more, waste less time
+
+These information is divided into [explanation/reasoning](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/what_is_ghostwork.md) of ghost work and this guide, [advocacy and awareness](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/awareness_advocacy.md), methods to [start with ghostwork](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/how_to_start.md), simple [tactics to follow](https://github.com/Tseegi-N/Ghost-Work-Guide/blob/main/simple_tactics.md), and platform specific (currently covering Amazon Mechanical Turk or AMT, Prolific, and Outlier) markdown files. 
 
 **5. Who is it for?**
 
