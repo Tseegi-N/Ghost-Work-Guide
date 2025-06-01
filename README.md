@@ -24,21 +24,33 @@ Labor done by humans but perceived as automated—think content moderation, data
 **2. Why should you care?**
 
 It’s low-pay, unstable work with little protection. You’re not considered an employee, which means:
+
 &nbsp;- No minimum wage and benefits
+
 &nbsp;- No legal protection
+
 &nbsp;- No union rights
+
 &nbsp;- Often emotionally taxing
 
 **3. Platforms Covered:**
+
 &nbsp;- AMT – flexible, but has the worst rep for exploitation
+
 &nbsp;- Outlier – pays better but is glitchy, high barrier to entry
+
 &nbsp;- Prolific – good community and ethics, but competitive and limited slots
 
 **4. What’s in the guide?**
+
 &nbsp;- Step-by-step onboarding tips
+
 &nbsp;- Best practices to avoid burnout & scams
+
 &nbsp;- Tools, forums, and plug-ins that workers use
+
 &nbsp;- Community resources (Reddit threads, Discords, YouTubers)
+
 &nbsp;- Transparency tactics to help you earn more, waste less time
 
 **5. Who is it for?**
