@@ -1,4 +1,4 @@
-# Ghost Work Guide for Beginners (AMT, Prolific, Outlier, etc.,)
+# Ghost Work Guide for Beginners (AMT, Prolific, etc.)
 ## Ghost Work 101: A Not-So-Official Guide to Side Hustling Without Getting Screwed Over
 
 Ever found yourself in a situation where you just need to make money, hopefully fast, flexible, and ideally online? Congrats, that makes you one of over 25 million people across the U.S. and Europe dabbling in the online gig economy. But here’s the catch: what starts as a quick side hustle can turn into a hot mess. Before you know it, you're underpaid, ghosted by companies, or straight-up exploited by Big Tech platforms.
@@ -17,31 +17,31 @@ This guide delves into platform studies, historical context, and scholarly work 
 
 ## TL;DR – Ghost Work Super Guide
 
-1. What is ghost work?
+**1. What is ghost work?**
  
 Labor done by humans but perceived as automated—think content moderation, data labeling, AI training, survey filling. It’s often hidden behind platforms like Amazon Mechanical Turk, Outlier, and Prolific.
 
-2. Why should you care?
+**2. Why should you care?**
 
 It’s low-pay, unstable work with little protection. You’re not considered an employee, which means:
-- No minimum wage and benefits
-- No legal protection
-- No union rights
-- Often emotionally taxing
+&nbsp;- No minimum wage and benefits
+&nbsp;- No legal protection
+&nbsp;- No union rights
+&nbsp;- Often emotionally taxing
 
-3. Platforms Covered:
-- AMT – flexible, but has the worst rep for exploitation
-- Outlier – pays better but is glitchy, high barrier to entry
-- Prolific – good community and ethics, but competitive and limited slots
+**3. Platforms Covered:**
+&nbsp;- AMT – flexible, but has the worst rep for exploitation
+&nbsp;- Outlier – pays better but is glitchy, high barrier to entry
+&nbsp;- Prolific – good community and ethics, but competitive and limited slots
 
-4. What’s in the guide?
-- Step-by-step onboarding tips
-- Best practices to avoid burnout & scams
-- Tools, forums, and plug-ins that workers use
-- Community resources (Reddit threads, Discords, YouTubers)
-- Transparency tactics to help you earn more, waste less time
+**4. What’s in the guide?**
+&nbsp;- Step-by-step onboarding tips
+&nbsp;- Best practices to avoid burnout & scams
+&nbsp;- Tools, forums, and plug-ins that workers use
+&nbsp;- Community resources (Reddit threads, Discords, YouTubers)
+&nbsp;- Transparency tactics to help you earn more, waste less time
 
-5. Who is it for?
+**5. Who is it for?**
 
 College students (like Smithies!), side hustlers, or anyone just trying to make a quick buck safely without falling into the trap of unpaid labor.
 
